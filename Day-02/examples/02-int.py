@@ -3,7 +3,7 @@ num1 = 10
 num2 = 5
 
 # Integer Division
-result1 = num1 // num2
+result1 = num1 /  num2
 print("Integer Division:", result1)
 
 # Modulus (Remainder)
